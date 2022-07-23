@@ -7,7 +7,7 @@
 
 <hr>
 
-* ⭐️ 9x Microsoft MVP 
+* ⭐️ 10x Microsoft MVP 
 * 🗣 Palestrante
 * 💻 Desenvolvedor Fullstack 
 * 💜 CEO - <a href="https://balta.io">@balta.io</a> 
