@@ -2,12 +2,12 @@
 <p>
   Me dedico ao desenvolvimento de software desde 2003, sendo minha maior especialidade o Desenvolvimento Web.<br>
   <br>
-  Durante esta jornada pude trabalhar presencialmente aqui no Brasil e Estados Unidos, atender remotamente times da Índia, Inglaterra e Holanda, receber 9x   Microsoft MVP e realizar diversas consultorias em empresas e projetos de todos os tamanhos.
+  Durante esta jornada pude trabalhar presencialmente aqui no Brasil e Estados Unidos, atender remotamente times da Índia, Inglaterra e Holanda, receber 11x   Microsoft MVP e realizar diversas consultorias em empresas e projetos de todos os tamanhos.
 </p>
 
 <hr>
 
-* ⭐️ 10x Microsoft MVP 
+* ⭐️ 11x Microsoft MVP 
 * 🗣 Palestrante
 * 💻 Desenvolvedor Fullstack 
 * 💜 CEO - <a href="https://balta.io">@balta.io</a> 
